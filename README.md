@@ -2,4 +2,3 @@
 # Phys-2130-lab 
 This respository hosts all the code that I wrote for the course Phys 2130 -- Waves, Optics and Sound. 
 
-I am an advocate for open reproducibility of science and so all my code can be accessed through Binder. 
